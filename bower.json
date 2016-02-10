@@ -1,0 +1,26 @@
+{
+  "name": "checklist",
+  "version": "0.1.0",
+  "homepage": "https://github.com/aju9316/checklist",
+  "description": "checklist app",
+  "main": "app.jsx",
+  "keywords": [
+    "checklist",
+    "webiste",
+    "checklist",
+    "website",
+    "launch",
+    "list"
+  ],
+  "authors": [
+    "Aziz Tinwala"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
